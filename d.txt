@@ -1,1 +1,4 @@
 who
+
+严重性	代码	说明	项目	文件	行	禁止显示状态
+错误	LNK1104	无法打开文件“libboost_thread-vc142-mt-s-x64-1_78.lib”	Abert_Algorithm_Memphis	D:\work\CYG\varo\CG_Algorithm_Memphis\AbertAlgorithm_Memphis\Abert_Algorithm_Memphis\LINK	1	
